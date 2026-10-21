@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+results/
+rebuilt_dataset/
+*.log
+
+/flcore/servers/servergrc.py
+/flcore/clients/clientgrc.py
+
+/dataset/Cifar10/
+/dataset/Cifar100/
+/dataset/FedRS/
+/release-assets/
