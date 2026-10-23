@@ -2251,13 +2251,14 @@ predictions = predictor.predict(images, client_id=0, batch_size=256)
 
 ## 📖 Citation
 
-If you use FedGRC, please cite:
+If you find FedGRC or this benchmark helpful, please consider citing our work:
 
 ```bibtex
-@unpublished{FedGRC,
-  author = {Junyu Lin and Bosong Qi and Pengcheng Shi and Jiayuan Li},
-  title = {Is High Local Accuracy Enough? Geometric Consensus with Support-Adaptive Statistical Personalization for Federated Learning},
-  note = {Manuscript}
+@article{Lin2026FedGRC,
+  author  = {Junyu Lin and Bosong Qi and Pengcheng Shi and Jiayuan Li},
+  title   = {Is High Local Accuracy Enough? Geometric Consensus with Support-Adaptive Statistical Personalization for Federated Learning},
+  journal = {arXiv preprint arXiv:2610.31133},
+  year    = {2026},
 }
 ```
 
